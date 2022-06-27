@@ -8,8 +8,8 @@ https://public.tableau.com/views/ITSalarySurvey2018-2021/IncomespreadYoEandG?:la
 The aim of this project was to find some insights into the IT job market. The IT industry has expanded at an overwhelming rate and new jobs titles are seemingly created every day. This project answers three questions:
 
 Key Questions:
-1. How is income affected by your seniority level, gender and years of experience?
-2. What company types are popular and which cities host these company type?
+1. Is there a distortion of income based on gender?
+2. What categories do popular IT companies fall into? Where are majority of these industries located?
 3. What programming languages do professionals use and what combinations are prominent?
 
 Key Findings:
